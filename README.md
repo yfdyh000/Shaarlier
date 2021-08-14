@@ -1,9 +1,7 @@
 # Shaarlier
 
 ![GitHub](https://img.shields.io/github/license/dimtion/Shaarlier.svg)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/6228d636f0e44708b2739a35e8b9a2b0)](https://www.codacy.com/app/zizou-xena/Shaarlier)
-![GitHub release](https://img.shields.io/github/release/dimtion/Shaarlier.svg)
-
+![GitHub workflow](https://img.shields.io/github/workflow/status/yfdyh000/Shaarlier/Android%20CI)
 A simple Android app for publishing links on your Shaarli instance from android share menu
 
 ![Share screenshot](.github/img/share_screenshot.jpg)
